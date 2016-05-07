@@ -1,36 +1,17 @@
-# cortex
+# Cortex
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+This project is a personal study on neural networks in practice along the Clojure language.
 
 ## Usage
 
-FIXME: explanation
+The project uses [Leiningen](http://leiningen.org/) as a build tool.
 
-    $ java -jar cortex-0.1.0-standalone.jar [args]
+To run the project, give the following command in the project root directory:
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ lein run
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Eemil Väisänen
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT license. See the `LICENSE` file.

@@ -52,7 +52,7 @@
     (Neuron. '(5 5))
     ])
 
-  (println "Neuron response" (activate (activate il z act/sigmoid) oz act/binary-threshold))
+  ; (println "Neuron response" (activate (activate il z act/sigmoid) oz act/binary-threshold))
   (println " - inputs " z)
   (println " - weights" (:weights n))
 
